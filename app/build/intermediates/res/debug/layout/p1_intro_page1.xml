@@ -1,0 +1,71 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="play.digigods.flaresense.P1_Mod1_Intro.P1_IntroPage1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/flaresense_intro"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/text_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flares"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textSize="45sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/text_page2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:text="Stay close to the people you love"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:id="@+id/image_trans"
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/strip1"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageView
+        android:id="@+id/image_bookmark"
+        android:layout_width="100dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="-12dp"
+        android:src="@drawable/ribbon"
+        android:layout_gravity="bottom|right"/>
+
+    <ImageView
+        android:id="@+id/image_arrow"
+        android:layout_width="29dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginRight="25dp"
+        android:src="@drawable/arrow_right"
+        android:layout_gravity="bottom|right"/>
+
+    <ImageView
+        android:id="@+id/image_arrow_hover"
+        android:layout_width="29dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginRight="25dp"
+        android:src="@drawable/arrow_right_green"
+        android:layout_gravity="bottom|right"
+        android:visibility="gone"/>
+
+</FrameLayout>
+<!-- From: file:/C:/Users/abhin_000/AndroidStudioProjects/FlareSense/app/src/main/res/layout/p1_intro_page1.xml -->

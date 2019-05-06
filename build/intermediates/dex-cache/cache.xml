@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7a3c8ee01d91cc982acee7dbd3eb6e5ba39d2451.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-78e92635b20b0f012ef5ef52fbb5703dc8a6dc7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-cfc3ae35c523befdfb9b2f1716505080ca17b506.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-6d725965fbdac3e6ea5c23bbbeffbd8e97669a34.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-e1cb36debe1b4006e8ac28107efd29bceb6f6c50.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40da745b1ae1f5b7562242e27dbc91a6b0fab3e9">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-a74d780c0bde3a7bdab9459c2712213d9f5136e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-150a1254e1d045e1215bf40d8ccdaac5d6456da1.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-da742708d2aa9a0715abc0e05704a380240ff15d.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-ec659169b9b583d7641ef87e3443f96772e7e107.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-4481d943a275facbfcff984b3b3d19ac30129c96.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-39f974b992308b5df3a8cfd7f2cfdf9dc18f6d39.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-8d976bee286925bdf466870b37a9eac2e399eb8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-485a28d84a71f68cce9387f635bd64723a0717aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-734a2e5d2045728260ae9e4c705d386b634dd37d.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-232d17d25b53d73019b00ce37e36e5829b6a8fa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-522a6fa997d321a06c6426650f89b42a9583b5b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-d88ae300d52bfa61bd7f4f7d90d60becaedcf522.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-da99cf4ae440774c0a00bd93fc28531071045701.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-503cfd4f5cf8ce55024e4711de319bbfe932c1fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-89d2d5f7fd2dc0ce0d9ab52b2a71b2b40a0ea2b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-4c40bd79b8c768d3b1c9e35e1fcd7e56f8157f37.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-d236c1f70fefe8982e4d4bc8a2ffddaa83f998cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-f8ee4ae9f961b4b06a8585e1601845efc2741ee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-c27636d406cb3a623412c60f5b2a36c92b5dff80.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-d39e4508298f738ea0a22715c53b078ad8d6dc9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-8faa2f84963a07d9632998a4fb4afd93e000493e.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3a77683aaffb656b3974f4d241afeb1e897740ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\abhin_000\AndroidStudioProjects\FlareSense\app\build\intermediates\pre-dexed\debug\classes-f58b478fd0415b804028c424befc89b6b506fec2.jar" />
+    </item>
+
+</items>

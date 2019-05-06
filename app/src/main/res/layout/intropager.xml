@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:background="@color/Black">
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/intro_pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <android.support.v4.view.PagerTabStrip
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+
+            android:textColor="#000000"
+            android:visibility="gone"/>
+
+    </android.support.v4.view.ViewPager>
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/flaresense"/>
+
+    <ImageView
+        android:id="@+id/icon2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/flaresense"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REDEFINING COMMUNICATION"
+        android:layout_below="@+id/icon"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REDEFINING COMMUNICATION"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/icon2"
+        android:textSize="18sp"
+        android:visibility="gone"/>
+
+    <Button
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter FlareSense"
+        android:background="@drawable/button_design_menu"
+        android:id="@+id/enterflare"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/White"
+        android:visibility="gone"/>
+
+</RelativeLayout>

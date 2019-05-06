@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlareSense</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_p1__m2_m3__java">Enter FlareSense</string>
+    <string name="facebook_app_ID">929602723754388</string>
+    <string name="title_activity_p1__m4__synchro">Synchronization</string>
+</resources>
